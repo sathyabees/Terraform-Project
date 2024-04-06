@@ -1,6 +1,6 @@
 # Create and manage infrastructure using Terraform and automate the deployment process with GitHub.
 
-![Project Flow] https://github.com/sathyabees/Terraform-Project
+![Project Link] https://github.com/sathyabees/Terraform-Project
  
  ## Introduction 
  This GitHub project provides a comprehensive guide and a set of resources to create and manage infrastructure using Terraform and automate the deployment process using GitHub Actions. 
